@@ -1,15 +1,20 @@
-# CSS Practice
+# CSS Practice (C2)
 
 ## TODO:
 
-- Intro + History
-- Implements
-  - Inline
-  - Internal
-  - External
-- Syntax
-- Comment
 - Selectors
+  - Selects all elements
+  - Pseudo-classes
+  - Pseudo-elements
+  - Attribute Selectors (Next Session)
+- HW
+  - Color
+  - Font size
+  - Background-color
+  - Border
+  - Width
+  - Height
+  - Link
 
 ## Tutorial:
 
