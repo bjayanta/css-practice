@@ -1,20 +1,17 @@
-# CSS Practice (C2)
+# CSS Practice (C3)
 
 ## TODO:
 
-- Selectors
-  - Selects all elements
-  - Pseudo-classes
-  - Pseudo-elements
-  - Attribute Selectors (Next Session)
-- HW
-  - Color
-  - Font size
-  - Background-color
-  - Border
-  - Width
-  - Height
-  - Link
+- Margin
+- Padding
+
+HW:
+
+- The CSS Box Model
+- Max width + Max height
+- Border
+- Outline
+- Text
 
 ## Tutorial:
 
