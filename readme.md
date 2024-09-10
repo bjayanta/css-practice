@@ -2,16 +2,16 @@
 
 ## TODO:
 
-- Margin
-- Padding
+- Shape
+- Position
+  - Absolute
+  - Relative
+  - Fixed
 
-HW:
+## HW
 
-- The CSS Box Model
-- Max width + Max height
-- Border
-- Outline
-- Text
+- Make box in center position using %.
+- Fixed navbar
 
 ## Tutorial:
 
