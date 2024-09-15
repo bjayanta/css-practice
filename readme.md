@@ -1,4 +1,4 @@
-# CSS Practice (C3)
+# CSS Practice (C4 + C4.1)
 
 ## TODO:
 
@@ -8,11 +8,15 @@
   - Relative
   - Fixed
   - sticky
+- Important
+- Display (VVI)
 
 ## HW
 
 - Make box in center position using %.
 - Fixed navbar
+- Menu bar
+- Practice all display values
 
 ## Tutorial:
 
