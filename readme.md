@@ -7,6 +7,7 @@
   - Absolute
   - Relative
   - Fixed
+  - sticky
 
 ## HW
 
